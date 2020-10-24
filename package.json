@@ -1,0 +1,8 @@
+{
+  "name": "@opennetwork/opennetwork",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:opennetwork/opennetwork.git",
+  "author": "Fabian Cook <hello@fabiancook.dev>",
+  "license": "MIT"
+}
